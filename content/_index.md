@@ -10,7 +10,7 @@ sections:
       title: |
         Tegla Loroupe Peace Foundation
       image:
-        filename: welcome.jpg
+        filename: tlhome.jpg
       text: |
         <br>
         
