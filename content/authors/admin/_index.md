@@ -1,41 +1,45 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: John Gage
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: John
+last_name: Gage
+
+name_pronunciation: Gaj
+
+status: ⬆️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Member of the Board
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Tegla Loroupe Peace Foundation
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include developing water resources in arid areas, large language models in endangered cultures, and distributed fiber optic sensing
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Environmental Engineering
+  - Water testing and treatment
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Masters in Public Policy
+      institution: Harvard Kennedy School
+      year: 1970
+    - course: PhD candidate in Mathematical Economics
+      institution: University of California, Berkeley
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Resource Economics
+      institution: University of California, Berkele
+      year: 1976
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +48,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:john.gage@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: 
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/johngage
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Board
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+John Gage is the former Chief Researcher and Senior Vice President of Sun Microsystems. He currently works on water issues for the Kibera Town Centre, Nairobi, Kenya.
