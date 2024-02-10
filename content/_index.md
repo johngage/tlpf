@@ -12,7 +12,7 @@ sections:
     # image: tlhome.jpg
     # caption: 'Image credit: Olympics Committee'
     image:
-      placement: 1
+      placement: 3
       caption: 'Photo by '
       focal_point: 'Center'
       preview_only: false
