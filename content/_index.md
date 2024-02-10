@@ -11,11 +11,11 @@ sections:
     banner:
       image: tlhome.jpg
       caption: 'Image credit: Olympics Committee'
-    image:
-        filename: tlhome.jpg
-      text: |
-        <br>     
-        Ambassador Tegla Loroupe has led the World Olympics Refugee Team to two Olympics.
+   # image:
+    #    filename: tlhome.jpg
+   #   text: |
+   #     <br>     
+      #  Ambassador Tegla Loroupe has led the World Olympics Refugee Team to two Olympics.
   - block: collection
     content:
       title: Latest News
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: tlhome.jpg
           filters:
             brightness: 1
           parallax: false
