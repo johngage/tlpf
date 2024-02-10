@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Board
+  - Researcher
 ---
 
 John Gage is the former Chief Researcher and Senior Vice President of Sun Microsystems. He currently works on water issues for the Kibera Town Centre, Nairobi, Kenya.
