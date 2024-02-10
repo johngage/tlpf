@@ -13,7 +13,7 @@ sections:
       image: 'tlhome.jpg' 
 
       caption: 'Image credit: Olympics Committee'
-    ßimage:
+    image:
         filename: tlhome.jpg
       text: |
         <br>
