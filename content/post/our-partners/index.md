@@ -8,18 +8,17 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* **UNHCR**
-* **ON RUNNING**
-* **PACT WORLD**
-* **INTERNATIONAL OLYMPIC COMITTEE - IOC** 
+
+ **UNHCR**
+ **ON RUNNING**
+ **PACT WORLD**
+ **INTERNATIONAL OLYMPIC COMITTEE - IOC** 
 
   ![](https://web.archive.org/web/20200812030800im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/546/assets/images/iW=1380&iH=289&oX=490&oY=0&cW=400&cH=289/777572a29e615cb69f82052861cdd83f.png)
 
   **ON RUNNING**
 
-  ![]()
-
-
+  ![](https://www.on-running.com/en-us/?g_network=g&g_productchannel=&g_adid=670220972835&g_locinterest=&g_keyword=on%20running&g_campaign=account&g_acctid=981-546-0205&g_keywordid=aud-334880525224%3Akwd-334850868462&g_adtype=&g_ifcreative=&g_adgroupid=153374402318&g_productid=&g_source=%7Bsourceid%7D&g_merchantid=&g_placement=&g_campaignid=13810435392&g_partition=&g_locphysical=1013585&g_ifproduct=&gad_source=1&gclid=CjwKCAiA2pyuBhBKEiwApLaIOySj9iY8MQfc6egFGxzhyqZhXSviMNtZmRXMuyNnBQeSMRZ665f6ERoCONAQAvD_BwE&gclsrc=aw.ds)
 
   ![](https://web.archive.org/web/20200812030800im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/546/assets/images/iW=1356&iH=284&oX=478&oY=0&cW=400&cH=284/931b5f90b7d2aa75f9a45ca9cadf0abb.png)
 
