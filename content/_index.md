@@ -9,13 +9,16 @@ sections:
     content:
       title: |
         Tegla Loroupe Peace Foundation
-      image:
+    banner:
+      image: 'tlhome.jpg' 
+
+      caption: 'Image credit: Olympics Committee'
+    ßimage:
         filename: tlhome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+Ambassador Tegla Loroupe has led the World Olympics Refugee Team to two Olympics.
   - block: collection
     content:
       title: Latest News
