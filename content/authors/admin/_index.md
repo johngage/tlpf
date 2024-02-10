@@ -6,10 +6,6 @@ title: John Gage
 first_name: John
 last_name: Gage
 
-name_pronunciation: Gaj
-
-status: ⬆️
-
 # Is this the primary user of the site?
 superuser: true
 
