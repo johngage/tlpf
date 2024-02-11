@@ -99,14 +99,14 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       image:
       placement: 2
       focal_point: right
-    design:
-      background:
-        image: tlhome.jpg
-        image_darken: 0.9
-        image_size: cover
-        image_position: left
-        image_parallax: true
-        text_color_light: true
+   # design:
+   #   background:
+   #     image: tlhome.jpg
+    #    image_darken: 0.9
+   #     image_size: cover
+   #     image_position: left
+   #     image_parallax: true
+   #     text_color_light: true
    # hero_media: tlpf.logo.new.jpg
 ---
 
