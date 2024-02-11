@@ -201,7 +201,7 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       title: 11. Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="gallery" >}}
     design:
       columns: '1'
   - block: collection
