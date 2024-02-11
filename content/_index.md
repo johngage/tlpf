@@ -84,7 +84,7 @@ sections:
 
   - block: markdown
     content:
-      title: | 6 Tegla Loroupe Peace Foundation 
+      title: ' 6 Tegla Loroupe Peace Foundation 
       <br>
       ## The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
@@ -96,20 +96,42 @@ In 2016, Ambassador Tegla Loroupe led the International Refugee Olympic team to 
 
 In 2021, Ambassador Tegla Loroupe led the International Refugee Olympic team to Tokyo.
 
-Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
+Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.'
       subtitle: Peace Through Sports Again
       image:
       placement: 2
       focal_point: right
-   # design:
-   #   background:
-   #     image: tlhome.jpg
-    #    image_darken: 0.9
-   #     image_size: cover
-   #     image_position: left
-   #     image_parallax: true
-   #     text_color_light: true
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: tlhome.jpg
+          image_darken: 0.9
+          image_size: cover
+          image_position: left
+          image_parallax: true
+          text_color_light: true
    # hero_media: tlpf.logo.new.jpg
+
+ - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: tlhome.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
 
 
