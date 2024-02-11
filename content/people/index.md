@@ -9,10 +9,9 @@ type: landing
 
 sections:
   - block: people
-      content:
-        title: Our Athletes, Our Leaders, Our Students
-        weight: 68
-        user_groups:
+    content:
+      title: Our Athletes, Our Leaders, Our Students
+      user_groups:
           - Staff
           - Board
           - Management
@@ -27,8 +26,8 @@ sections:
           sort_by: Params.last_name
           sort_ascending: true
 
-      design:
-        show_interests: false
-        show_role: true
-        show_social: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
 ---
