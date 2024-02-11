@@ -1,26 +1,31 @@
 ---
-title: People
-date: 2022-10-24
+title: people
+date: 2024-01-26T01:44:01.262Z
 
 type: landing
-
 sections:
-  - block: people
-    content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigators
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
+- block: people
+  content:
+    title: Our Athletes, Our Leaders, Our Students
+    weight: 68
+    user_groups:
+      - Staff
+      - Board
+      - Management
+      - Administration
+      - Visitors
+      - Alumni
+      - Athletes
+      - South Sudan
+      - Ngong Training  Camp
+      - KapenguriaAcademy
+      - Olympics
+    sort_by: Params.last_name
+    sort_ascending: true
+headless: true
+description: modify people
+design:
+  show_interests: false
+  show_role: true
+  show_social: true
 ---
