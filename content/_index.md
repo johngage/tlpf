@@ -80,7 +80,7 @@ sections:
       focal_point: right
     design:
       background:
-        image: tlhome.jpg
+        image: /assets/media/tlhome.jpg
         image_darken: 0.9
         image_size: cover
         image_position: left
