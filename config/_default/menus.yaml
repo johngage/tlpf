@@ -23,6 +23,7 @@ main:
   - name: Partners
     identifier: partners
     parent: hh
+    url: our-partners/
   - name: How To Help
     identifier: help
     parent: hh
