@@ -73,8 +73,6 @@ sections:
 
   - block: markdown
     content:
-    column: 1
-    weight: 1
       title: Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sports
       image:
