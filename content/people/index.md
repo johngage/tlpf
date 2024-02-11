@@ -12,20 +12,19 @@ sections:
     content:
       title: Our Athletes, Our Leaders, Our Students
       user_groups:
-          - Staff
-          - Board
-          - Management
-          - Administration
-          - Visitors
-          - Alumni
-          - Athletes
-          - South Sudan
-          - Ngong Training  Camp
-          - KapenguriaAcademy
-          - Olympics
-          sort_by: Params.last_name
-          sort_ascending: true
-
+        - Staff
+        - Board
+        - Management
+        - Administration
+        - Visitors
+        - Alumni
+        - Athletes
+        - South Sudan
+        - Ngong Training  Camp
+        - Kapenguria Academy
+        - Olympics
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
