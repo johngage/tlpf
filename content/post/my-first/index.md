@@ -10,7 +10,7 @@ image:
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
-{{< gallery album="<gallery>" >}}
+{{< gallery album="gallery" >}}
 
 ---
 
