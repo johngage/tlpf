@@ -115,10 +115,9 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-     - block: markdown
+  - block: markdown
     content:
-      title: 7
+      title: 6.5
       subtitle: ''
       text:
     design:
@@ -134,11 +133,12 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: fullscreen 
+    
    
   - block: markdown
       content:
-        title: 8
+        title: 7
         subtitle: ''
         text: oh no
       design:
