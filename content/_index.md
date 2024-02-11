@@ -78,7 +78,7 @@ sections:
       image:
       placement: 2
       focal_point: right
-    design:
+    #design:
      #background:
      #   image: tlhome.jpg
      #   image_darken: 0.9
