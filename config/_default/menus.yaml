@@ -8,7 +8,7 @@ main:
   - name: About Us
     identifier: briefabout
     parent: home
-    url: tags/academic/
+    url: donate/
     weight: 11
   - name: Current Projects
     identifier: currentprojects
@@ -23,6 +23,10 @@ main:
   - name: Partners
     identifier: partners
     parent: home
+  - name: How To Help
+    identifier: help
+    parent: home
+    url: donate
     url: tags/academic/
     weight: 14
   - name: About Us
