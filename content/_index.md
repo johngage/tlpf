@@ -9,8 +9,8 @@ sections:
     content:
       title: 1 new block
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! and more. do I need quotes? 
-      who knows? this is the new line, with no  quotes
+      text: 'Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! and more. do I need quotes? 
+      who knows? this is the new line, with  quotes'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
