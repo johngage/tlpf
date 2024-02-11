@@ -84,8 +84,8 @@ sections:
 
   - block: markdown
     content:
-      title: '6 Tegla Loroupe Peace Foundation 
-      
+      title: | 6 Tegla Loroupe Peace Foundation 
+      <br>
       ## The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
 Since its founding in 2003 by **World Champion Tegla Loroupe**, thousands of athletes have trained and competed in Peace Races held in conflict areas in Kenya, in Uganda, and in other conflict areas.
@@ -96,7 +96,7 @@ In 2016, Ambassador Tegla Loroupe led the International Refugee Olympic team to 
 
 In 2021, Ambassador Tegla Loroupe led the International Refugee Olympic team to Tokyo.
 
-Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.'
+Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
       subtitle: Peace Through Sports Again
       image:
       placement: 2
