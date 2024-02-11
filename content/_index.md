@@ -5,10 +5,21 @@ date: 2024-2-10
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: 1 new block
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! and more. do I need quotes? 
+      who knows? this is the new line, with no  quotes
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
 
   - block: hero
     content:
-      title: Tegla Loroupe Peace Foundation
+      title: 2 Tegla Loroupe Peace Foundation
     # banner:
     # image: tlhome.jpg
     # caption: 'Image credit: Olympics Committee'
@@ -25,7 +36,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title:3 Latest News
       subtitle:
       text:
       count: 5
@@ -44,7 +55,7 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title:4
       subtitle: ''
       text:
     design:
@@ -64,7 +75,7 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: 5
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
@@ -73,14 +84,14 @@ sections:
 
   - block: markdown
     content:
-      title: Tegla Loroupe Peace Foundation
+      title:6 Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sports Again
       image:
       placement: 2
       focal_point: right
     design:
       background:
-        image: /assets/media/tlhome.jpg
+        image: tlhome.jpg
         image_darken: 0.9
         image_size: cover
         image_position: left
