@@ -134,6 +134,7 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen 
+
   - block: skills
     content:
       title: 8. Skills
@@ -169,6 +170,7 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       # Choose a layout view
       view: compact
       columns: '2'  
+
   - block: portfolio
     id: projects
     content:
@@ -196,6 +198,7 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false 
+
   - block: markdown
     content:
       title: 11. Gallery
@@ -229,6 +232,7 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
     design:
       columns: '2'
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -239,11 +243,23 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
     design:
       columns: '2'
       view: compact
+
   - block: tag_cloud
     content:
       title: 15. Popular Topics
     design:
       columns: '2'
+
+  - block: markdown
+    content:
+      title: Copied this from website 
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+    
 ---
 
 
