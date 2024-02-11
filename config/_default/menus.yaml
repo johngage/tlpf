@@ -26,7 +26,7 @@ main:
   - name: How To Help
     identifier: help
     parent: home
-    url: donate
+    url: donate/
     url: tags/academic/
     weight: 14
   - name: About Us
@@ -65,7 +65,7 @@ main:
     weight: 26
   - name: Projects
     identifier: projects
-    url: '#projects'
+    url: projects/
     weight: 30
   - name: All Projects
     identifier: allprojects
@@ -84,7 +84,7 @@ main:
     weight: 34
   - name: Media Center
     identifier: media_center
-    url: post
+    url: post/
     weight: 40
   - name: Newsletters
     identifier: newsletters
@@ -99,7 +99,7 @@ main:
   - name: Gallery
     identifier: gallery
     parent: media_center
-    url: tags/academic/
+    url: gallery/
     weight: 42
   - name: Recent Activities
     identifier: recent
@@ -118,7 +118,7 @@ main:
     weight: 45
   - name: Support/Join Us
     identifier: support
-    url: donate
+    url: donate/
     weight: 50
   - name: Current Project Highlights
     identifier: currenthighlights
@@ -132,7 +132,7 @@ main:
     weight: 52
   - name: Contact Us
     identifier: contact
-    url: contact
+    url: contact/
     weight: 60
   - name: Contact Form
     identifier: contactform
@@ -156,5 +156,5 @@ main_right:
     weight: 70
   - name: Tutorial
     identifier: tutorial
-    url: Tutorial
+    url: Tutorial/
     weight: 80
