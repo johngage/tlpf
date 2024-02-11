@@ -116,11 +116,29 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-
+     - block: markdown
+    content:
+      title: 7
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
    
   - block: markdown
       content:
-        title: 7
+        title: 8
         subtitle: ''
         text: oh no
       design:
