@@ -137,7 +137,7 @@ main:
   - name: Contact Form
     identifier: contactform
     parent: contact
-    url: tags/academic/
+    url: contact/
     weight: 61
   - name: Map
     identifier: map
