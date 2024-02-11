@@ -98,9 +98,9 @@ In 2021, Ambassador Tegla Loroupe led the International Refugee Olympic team to 
 
 Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.'
       subtitle: Peace Through Sports Again
-      image:
-      placement: 2
-      focal_point: right
+  #    image:
+  #    placement: 2
+   #   focal_point: right
     design:
       columns: '1'
       background:
