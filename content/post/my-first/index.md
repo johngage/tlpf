@@ -6,9 +6,15 @@ date: 2021-01-30
 authors:
   - lamloar
 image:
-  filename: latimes.png
+  filename: science.png
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
+
+{{< gallery album="<gallery>" >}}
+
+---
+
+2022 version; changed in 2024
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
 
