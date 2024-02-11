@@ -118,13 +118,13 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
   - block: markdown
     content:
       title: 7
-      subtitle: ''
+      subtitle: 'We are at 7'
       text:
     design:
       columns: '1'
       background:
         image: 
-          filename: tlhome.jpg
+          filename: jg.jpg
           filters:
             brightness: 1
           parallax: false
