@@ -1,5 +1,5 @@
 ---
-title: people
+title:
 date: 2024-01-26T01:44:01.262Z
 
 type: landing
