@@ -5,15 +5,13 @@ date: 2024-2-10
 type: landing
 
 sections:
-
   - block
-    advanced: null
-    widget: Pages
-    widget_id: First-seen
-    headless: true
-    active: true
-    column: 1
-    weight: 1
+    #widget: Pages
+    #widget_id: First-seen
+   # headless: true
+    #active: true
+    #column: 1
+    #weight: 1
     title: Tegla Loroupe Peace Foundation
     subtitle: Peace Through Sports
     image:
