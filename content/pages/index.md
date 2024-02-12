@@ -5,7 +5,7 @@ date: 2024-2-10
 type: landing
 
 sections:
-  - block: people
+  - block: people1
     content:
       title: Our Athletes, Our Leaders, Our Students
       user_groups:
