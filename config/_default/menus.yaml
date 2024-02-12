@@ -14,8 +14,8 @@ main:
     identifier: currentprojects
     parent: hh
     url: project/
-    weight: 12
-  - name: Success Highlights
+    # weight: 12
+  - name: Success
     identifier: success
     parent: hh
     url: project/
@@ -70,17 +70,17 @@ main:
   - name: All Projects
     identifier: allprojects
     parent: projects
-    url: projects/
+    url: project/
     weight: 31
   - name: Current Projects
     identifier: currentprojects
     parent: projects
-    url: projects/
+    url: project/new-faculty-at-kapenguria-peace-academy
     weight: 32
   - name: Our Success
     identifier: success
     parent: projects
-    url: projects/
+    url: project/
     weight: 34
   - name: Media Center
     identifier: media_center
