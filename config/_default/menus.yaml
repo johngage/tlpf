@@ -38,7 +38,7 @@ main:
     parent: hh
     url: post/
     weight: 17
-  - name: project
+  - name: Project
     identifier: proj
     url: project/
     weight: 18
