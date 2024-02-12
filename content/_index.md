@@ -5,26 +5,44 @@ date: 2024-2-10
 type: landing
 
 sections:
-  - block: people
-    content:
-      title: Our Athletes, Our Leaders, Our Students
-      user_groups:
-        - Staff
-        - Board
-        - Management
-        - Visitors
-        - Alumni
-        - Athletes
-        - South Sudan
-        - Ngong Training Camp
-        - Kapenguria Academy
-        - Olympics
-      sort_by: Params.last_name
-      sort_ascending: true
+
+  - block
+    advanced: null
+    widget: Pages
+    widget_id: First-seen
+    headless: true
+    active: true
+    column: 1
+    weight: 1
+    title: Tegla Loroupe Peace Foundation
+    subtitle: Peace Through Sports
+    image:
+      placement: 2
+      focal_point: right
     design:
-      show_interests: false
-      show_role: true
-      show_social: true
+      background:
+        image: tlhome.jpg
+        image_darken: 0.9
+        image_size: cover
+        image_position: left
+        image_parallax: true
+        text_color_light: true
+# hero_media: tlpf.logo.new.jpg
+    text:
+<a id='gfm-charity-donate-link' style='background-color:#ffff00; color: black; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/donate-widget/29892'> Donate Here!</a>
+
+The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
+
+Since its founding in 2003 by **World Champion Tegla Loroupe**, thousands of athletes have trained and competed in Peace Races held in conflict areas in Kenya, in Uganda, and in other conflict areas.
+
+Since 2015, hundreds of refugee athletes from South Sudan, Congo, Ethiopia, Somalia and other countries have trained at the [Tegla Loroupe International Olympic Refugee Training Camp in Ngong, Kenya](http://bit.ly/37Y0sc3), just  to the west of Nairobi.
+
+In 2016, Ambassador Tegla Loroupe led the International Refugee Olympic team to Rio, where five of the Ngong Training Camp athletes competed.
+
+In 2021, Ambassador Tegla Loroupe led the International Refugee Olympic team to Tokyo.
+
+Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
+ 
 
 
   - block: hero
@@ -104,7 +122,7 @@ sections:
 
   - block: markdown
     content:
-      title: '6 Tegla Loroupe Peace Foundation 
+      title: 'Tegla Loroupe Peace Foundation 
       <br>
       ## The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
@@ -279,6 +297,27 @@ Tegla Loroupe describes who we are:  an organization dedicated to athletes who c
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+
+  - block: people
+    content:
+      title: Our Athletes, Our Leaders, Our Students
+      user_groups:
+        - Staff
+        - Board
+        - Management
+        - Visitors
+        - Alumni
+        - Athletes
+        - South Sudan
+        - Ngong Training Camp
+        - Kapenguria Academy
+        - Olympics
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true 
     
 ---
 
