@@ -84,7 +84,7 @@ main:
     weight: 34
   - name: Media Center
     identifier: media_center
-    url: post/
+    url: 
     weight: 39
   - name: Newsletters
     identifier: newsletters
@@ -109,9 +109,9 @@ main:
   - name: Reports
     identifier: reports
     parent: media_center
-    url: https://googl.com
+    url: https://google.com
     weight: 44
-   - name: Support/Join Us
+  - name: Support/Join Us
     identifier: support
     url: donate/
     weight: 50
