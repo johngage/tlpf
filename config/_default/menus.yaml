@@ -5,31 +5,43 @@ main:
     identifier: hh
     url: /
     weight: 10
-  - name: About
-    identifier: briefabout
+  - name: Action
+    identifier: action
+    parent: hh
+    url: action/
+    weight: 11
+  - name: Authors
+    identifier: auth
+    parent: hh
+    url: authors/
+    weight: 12
+  - name: Donate
+    identifier: donate
     parent: hh
     url: donate/
-    weight: 11
-  - name: Projects
-    identifier: currentprojects
-    parent: hh
-    url: project/
-    weight: 12
-  - name: Success
-    identifier: success
-    parent: hh
-    url: project/
     weight: 13
-  - name: Partners
-    identifier: partners
+  - name: Events
+    identifier: events
     parent: hh
     weight: 14
-    url: our-partners/
-  - name: How To Help
-    identifier: help
+    url: event/
+  - Our Partners
     parent: hh
-    url: donate/
+    url: our-partners/
     weight: 15
+    - name: People
+      identifier: people
+      url: people/
+      weight: 16
+  - name: Posts
+    identifier: post
+    parent: hh
+    url: post/
+    weight: 17
+  - name: project
+    identifier: proj
+    url: project/
+    weightz; 18
  #
   - name: About Us
     identifier: about_us
