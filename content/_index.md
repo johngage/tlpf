@@ -35,6 +35,7 @@ sections:
         Ambassador Tegla Loroupe has led the World Olympics Refugee Team to two Olympics.
 
   - block: collection
+    id: 3-latest
     content:
       title: 3 Latest News
       subtitle:

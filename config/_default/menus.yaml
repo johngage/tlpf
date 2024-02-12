@@ -95,7 +95,7 @@ main:
   - name: Events/Activities
     identifier: eventsactivities
     parent: newsletters
-    url: tags/academic/
+    url: /#3-latest
     weight: 41
   - name: Gallery
     identifier: gallery
