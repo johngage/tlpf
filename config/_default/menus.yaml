@@ -65,22 +65,22 @@ main:
     weight: 26
   - name: Projects
     identifier: projects
-    url: projects/
+    url:
     weight: 30
   - name: All Projects
     identifier: allprojects
-    parent: projects/
-    url: tags/academic/
+    parent: projects
+    url: projects/
     weight: 31
   - name: Current Projects
     identifier: currentprojects
-    parent: projects/
-    url: tags/academic/
+    parent: projects
+    url: projects/
     weight: 32
   - name: Our Success
     identifier: success
-    parent: projects/
-    url: tags/academic/
+    parent: projects
+    url: projects/
     weight: 34
   - name: Media Center
     identifier: media_center
@@ -104,19 +104,14 @@ main:
   - name: Recent Activities
     identifier: recent
     parent: media_center
-    url: tags/academic/
+    url: /#3-latest
     weight: 43
   - name: Reports
     identifier: reports
     parent: media_center
     url: tags/academic/
     weight: 44
-  - name: Footer
-    identifier: footer
-    parent: reports
-    url: tags/academic/
-    weight: 45
-  - name: Support/Join Us
+   - name: Support/Join Us
     identifier: support
     url: donate/
     weight: 50
