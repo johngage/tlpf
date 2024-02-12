@@ -5,7 +5,7 @@ date: 2024-2-10
 type: landing
 
 sections:
-  - block
+  - block: hero
     #widget: Pages
     #widget_id: First-seen
    # headless: true
@@ -26,7 +26,8 @@ sections:
         image_parallax: true
         text_color_light: true
 # hero_media: tlpf.logo.new.jpg
-    text:
+    text: |-
+    <br>
 <a id='gfm-charity-donate-link' style='background-color:#ffff00; color: black; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/donate-widget/29892'> Donate Here!</a>
 
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
