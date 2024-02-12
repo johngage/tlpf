@@ -30,6 +30,7 @@ main:
     url: our-partners/
     weight: 15
   - name: People
+    parent: hh
     identifier: people
     url: people/
     weight: 16
@@ -39,6 +40,7 @@ main:
     url: post/
     weight: 17
   - name: Project
+    parent: hh
     identifier: proj
     url: project/
     weight: 18
