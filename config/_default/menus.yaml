@@ -25,14 +25,14 @@ main:
     parent: hh
     weight: 14
     url: event/
-  - Our Partners
+  - name: Our Partners
     parent: hh
     url: our-partners/
     weight: 15
-    - name: People
-      identifier: people
-      url: people/
-      weight: 16
+  - name: People
+    identifier: people
+    url: people/
+    weight: 16
   - name: Posts
     identifier: post
     parent: hh
