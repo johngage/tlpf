@@ -18,14 +18,7 @@ sections:
       image:
         placement: 2
         focal_point: right
-    design:
-      background:
-        image: tlhome.jpg
-        image_darken: 0.9
-        image_size: cover
-        image_position: left
-        image_parallax: true
-        text_color_light: true
+    
 # hero_media: tlpf.logo.new.jpg
     text: |-
     <br>
@@ -43,8 +36,14 @@ In 2021, Ambassador Tegla Loroupe led the International Refugee Olympic team to 
 
 Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
  
-
-
+    design:
+      background:
+        image: tlhome.jpg
+        image_darken: 0.9
+        image_size: cover
+        image_position: left
+        image_parallax: true
+        text_color_light: true  
   - block: hero
     content:
       title: 2 Tegla Loroupe Peace Foundation
