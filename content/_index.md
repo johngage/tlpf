@@ -20,7 +20,7 @@ sections:
         focal_point: right
     
 # hero_media: tlpf.logo.new.jpg
-      text: |-
+      text: >-
     ## Start
     <br>
 <a id='gfm-charity-donate-link' style='background-color:#ffff00; color: black; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/donate-widget/29892'> Donate Here!</a>
