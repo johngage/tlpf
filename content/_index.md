@@ -5,16 +5,26 @@ date: 2024-2-10
 type: landing
 
 sections:
-  - block: markdown
+  - block: people
     content:
-      title: 1 new block
-      subtitle: My subtitle
-      text: 'Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! and more. do I need quotes? 
-      who knows? this is the new line, with  quotes'
+      title: Our Athletes, Our Leaders, Our Students
+      user_groups:
+        - Staff
+        - Board
+        - Management
+        - Visitors
+        - Alumni
+        - Athletes
+        - South Sudan
+        - Ngong Training Camp
+        - Kapenguria Academy
+        - Olympics
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      show_interests: false
+      show_role: true
+      show_social: true
 
 
   - block: hero

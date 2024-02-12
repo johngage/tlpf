@@ -15,12 +15,11 @@ sections:
         - Staff
         - Board
         - Management
-        - Administration
         - Visitors
         - Alumni
         - Athletes
         - South Sudan
-        - Ngong Training  Camp
+        - Ngong Training Camp
         - Kapenguria Academy
         - Olympics
       sort_by: Params.last_name

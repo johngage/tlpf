@@ -7,6 +7,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+user-groups: Board, Management
 ---
 ![](https://web.archive.org/web/20190823120100im_/https://pbs.twimg.com/profile_images/822347102378397696/_-CY2ccB_400x400.jpg)
 
