@@ -1,4 +1,16 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# Material from the Hugo Blox web site
+
+[View the **documentation**](https://docs.hugoblox.com/)
+
+
+
+
+
+
+
+
+
+## [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 

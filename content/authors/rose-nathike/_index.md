@@ -11,3 +11,4 @@ user_groups:
   - NgongTrainingCamp
   - Olympics
 ---
+# Add pointers to Olympic press coverage
