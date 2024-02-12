@@ -13,7 +13,7 @@ main:
   - name: Projects
     identifier: currentprojects
     parent: hh
-    url: project
+    url: project/
     weight: 12
   - name: Success
     identifier: success
