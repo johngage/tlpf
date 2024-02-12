@@ -95,6 +95,15 @@ sections:
 
   - block: markdown
     content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title: '6 Tegla Loroupe Peace Foundation 
       <br>
       ## The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
