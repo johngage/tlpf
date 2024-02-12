@@ -41,7 +41,7 @@ main:
   - name: project
     identifier: proj
     url: project/
-    weightz; 18
+    weight: 18
  #
   - name: About Us
     identifier: about_us
