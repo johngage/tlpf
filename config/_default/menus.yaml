@@ -1,11 +1,11 @@
 menu:
-  - {}
+
 main:
   - name: Home
     identifier: hh
     url: /
     weight: 10
-  - name: About Us
+  - name: About
     identifier: briefabout
     parent: hh
     url: donate/
@@ -14,7 +14,7 @@ main:
     identifier: currentprojects
     parent: hh
     url: project/
-    # weight: 12
+    weight: 12
   - name: Success
     identifier: success
     parent: hh
@@ -23,12 +23,13 @@ main:
   - name: Partners
     identifier: partners
     parent: hh
+    weight: 14
     url: our-partners/
   - name: How To Help
     identifier: help
     parent: hh
     url: donate/
-    weight: 14
+    weight: 15
   - name: About Us
     identifier: about_us
     url: '#about-us'
