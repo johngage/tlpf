@@ -1,156 +1,161 @@
 menu:
 - {}
-  main:
-    - name: Home
-      identifier: hh
-      url: /
-      weight: 10
-    - name: About
-      identifier: briefabout
-      parent: hh
-      url: donate/
-      weight: 11
-    - name: Projects
-      identifier: currentprojects
-      parent: hh
-      url: project/
-      weight: 12
-    - name: Success
-      identifier: success
-      parent: hh
-      url: project/
-      weight: 13
-    - name: Partners
-      identifier: partners
-      parent: hh
-      weight: 14
-      url: our-partners/
-    - name: How To Help
-      identifier: help
-      parent: hh
-      url: donate/
-      weight: 15
-    - name: About Us
-      identifier: about_us
-      url: '#about-us'
-      weight: 20
-    - name: Mission
-      identifier: mission
-      parent: about_us
-      url: tags/academic/
-      weight: 21
-    - name: Vision
-      identifier: vision
-      parent: about_us
-      url: tags/academic/
-      weight: 22
-    - name: History
-      identifier: history
-      parent: about_us
-      url: tags/academic/
-      weight: 23
-    - name: Foundation Values
-      identifier: foundation
-      parent: vision
-      url: tags/academic/
-      weight: 24
-    - name: Governance and Management
-      identifier: governance
-      parent: about_us
-      url: tags/academic/
-      weight: 25
-    - name: Footer
-      identifier: footer1
-      parent: governance
-      url: tags/academic/
-      weight: 26
-    - name: Projects
-      identifier: projects
-      url:
-      weight: 30
-    - name: All Projects
-      identifier: allprojects
-      parent: projects
-      url: project/
-      weight: 31
-    - name: Current Projects
-      identifier: currentprojects
-      parent: projects
-      url: project/new-faculty-at-kapenguria-peace-academy
-      weight: 32
-    - name: Our Success
-      identifier: success
-      parent: projects
-      url: project/
-      weight: 34
-    - name: Media Center
-      identifier: media_center
-      url: 
-      weight: 39
-    - name: Newsletters
-      identifier: newsletters
-      parent: media_center
-      url: post/
-      weight: 40
-    - name: Events/Activities
-      identifier: eventsactivities
-      parent: media_center
-      url: /#3-latest
-      weight: 41
-    - name: Gallery
-      identifier: gallery
-      parent: media_center
-      url: publication/
-      weight: 42
-    - name: Recent Activities
-      identifier: recent
-      parent: media_center
-      url: /#3-latest
-      weight: 43
-    - name: Reports
-      identifier: reports
-      parent: media_center
-      url: https://google.com
-      weight: 44
-    - name: Support/Join Us
-      identifier: support
-      url: donate/
-      weight: 50
-    - name: Current Project Highlights
-      identifier: currenthighlights
-      parent: support
-      url: tags/academic/
-      weight: 51
-    - name: Payment Details
-      identifier: paymentdetails
-      parent: support
-      url: tags/academic/
-      weight: 52
-    - name: Contact Us
-      identifier: contact
-      url: contact/
-      weight: 60
-    - name: Contact Form
-      identifier: contactform
-      parent: contact
-      url: contact/
-      weight: 61
-    - name: Map
-      identifier: map
-      parent: contact
-      url: tags/academic/
-      weight: 62
-    - name: FAQ
-      identifier: faq
-      parent: contact
-      url: tags/academic/
-      weight: 63
-  main_right:
-    - name: Courses
-      identifier: courses
-      url: courses/
-      weight: 70
-    - name: Tutorial
-      identifier: tutorial
-      url: Tutorial/
-      weight: 80
+main:
+  - name: Home
+    identifier: hh
+    url: /
+    weight: 10
+  - name: About
+    identifier: briefabout
+    parent: hh
+    url: donate/
+    weight: 11
+  - name: Projects
+    identifier: currentprojects
+    parent: hh
+    url: project
+    weight: 12
+  - name: Success
+    identifier: success
+    parent: hh
+    url: project/
+    weight: 13
+  - name: Partners
+    identifier: partners
+    parent: hh
+    weight: 14
+    url: our-partners/
+  - name: How To Help
+    identifier: help
+    parent: hh
+    url: donate/
+    weight: 15
+ #
+  - name: About Us
+    identifier: about_us
+    url: '#about-us'
+    weight: 20
+  - name: Mission
+    identifier: mission
+    parent: about_us
+    url: tags/academic/
+    weight: 21
+  - name: Vision
+    identifier: vision
+    parent: about_us
+    url: tags/academic/
+    weight: 22
+  - name: History
+    identifier: history
+    parent: about_us
+    url: tags/academic/
+    weight: 23
+  - name: Foundation Values
+    identifier: foundation
+    parent: about_us
+    url: tags/academic/
+    weight: 24
+  - name: Governance and Management
+    identifier: governance
+    parent: about_us
+    url: tags/academic/
+    weight: 25
+  - name: Footer
+    identifier: footer1
+    parent: about_us
+    url: tags/academic/
+    weight: 26
+#
+  - name: Projects
+    identifier: projects
+    url:
+    weight: 30
+  - name: All Projects
+    identifier: allprojects
+    parent: projects
+    url: project/
+    weight: 31
+  - name: Current Projects
+    identifier: currentprojects
+    parent: projects
+    url: project/new-faculty-at-kapenguria-peace-academy
+    weight: 32
+  - name: Our Success
+    identifier: oursuccess
+    parent: projects
+    url: project/
+    weight: 34
+#
+  - name: Media Center
+    identifier: media_center
+    url: 
+    weight: 39
+  - name: Newsletters
+    identifier: newsletters
+    parent: media_center
+    url: post/
+    weight: 40
+  - name: Events/Activities
+    identifier: eventsactivities
+    parent: media_center
+    url: /#3-latest
+    weight: 41
+  - name: Gallery
+    identifier: gallery
+    parent: media_center
+    url: publication/
+    weight: 42
+  - name: Recent Activities
+    identifier: recent
+    parent: media_center
+    url: /#3-latest
+    weight: 43
+  - name: Reports
+    identifier: reports
+    parent: media_center
+    url: https://google.com
+    weight: 44
+#
+  - name: Support/Join Us
+    identifier: support
+    url: donate/
+    weight: 50
+  - name: Current Project Highlights
+    identifier: currenthighlights
+    parent: support
+    url: tags/academic/
+    weight: 51
+  - name: Payment Details
+    identifier: paymentdetails
+    parent: support
+    url: tags/academic/
+    weight: 52
+#
+  - name: Contact Us
+    identifier: contact
+    url: contact/
+    weight: 60
+  - name: Contact Form
+    identifier: contactform
+    parent: contact
+    url: contact/
+    weight: 61
+  - name: Map
+    identifier: map
+    parent: contact
+    url: tags/academic/
+    weight: 62
+  - name: FAQ
+    identifier: faq
+    parent: contact
+    url: tags/academic/
+    weight: 63
+main_right:
+  - name: Courses
+    identifier: courses
+    url: courses/
+    weight: 70
+  - name: Tutorial
+    identifier: tutorial
+    url: Tutorial/
+    weight: 80
