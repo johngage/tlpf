@@ -32,7 +32,7 @@ main:
   - name: People
     parent: hh
     identifier: people
-    url: pages/
+    url: people/
     weight: 16
   - name: Posts
     identifier: post
