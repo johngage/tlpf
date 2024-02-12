@@ -14,15 +14,8 @@ The practice of sport is a recognized instrument for promoting peace, as it disr
 
 ##### **PEACE RACES** 
 
-Peace Races have been held since 2001 to promote peaceful co-existence among pastoral communities in the Karamoja cluster Regions among Pokot, Turkana, Marakwet, and Karamojong communities
+Peace Races have been held since 2001 to promote peaceful co-existence among pastoral communities in the Karamoja Cluster Regions among the Pokot, Turkana, Marakwet, and Karamojong communities
 
- 
-
- 
-
- 
-
- 
 
  
 

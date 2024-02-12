@@ -3,6 +3,7 @@ title: TLPF PEACE BRIEF
 date: 2021-02-08T05:08:02.357Z
 draft: false
 featured: false
+tag: history
 image:
   filename: featured
   focal_point: Smart
@@ -26,7 +27,7 @@ This was climaxed by the official kickoff of the harvesting of over 50 acres of 
 
 This is a multi-faceted initiative which also saw the county governments of Elgeyo Marakwet and West Pokot involved in provision tractors to till the land.
 
-Kenya seed company   provided the seeds and other farm inputs as Tegla Loroupe Peace Foundation and Kerio Valley development Authority coordinated peace watch together with the National Police Service - Administration Police Peace Building Unit to ensure the project is not interfered with.
+Kenya seed company provided the seeds and other farm inputs as Tegla Loroupe Peace Foundation and Kerio Valley Development Authority coordinated peace watch together with the National Police Service - Administration Police Peace Building Unit to ensure the project is not interfered with.
 
 # EXPANSION
 

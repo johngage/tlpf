@@ -8,6 +8,7 @@ summary: The 15th Edition of the Tegla Loroupe Peace Race was held on the 11th
   **Inspector General Boinett** joined **Peace Ambassador Tegla Loroupe.**
 draft: false
 featured: false
+tag: peace
 image:
   filename: kap.race.2019.png
   focal_point: Smart

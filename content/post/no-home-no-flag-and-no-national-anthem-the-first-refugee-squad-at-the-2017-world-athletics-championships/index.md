@@ -6,6 +6,7 @@ date: 2017-08-17T21:11:29.389Z
 summary: Report from Refugee Team in 2017 World Athletics Championship
 draft: false
 featured: false
+tag: refugee
 image:
   filename: featured
   focal_point: Smart

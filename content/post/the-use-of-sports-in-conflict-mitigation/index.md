@@ -3,6 +3,7 @@ title: The Use of Sports In Conflict Mitigation
 date: 2021-02-08T04:55:18.347Z
 draft: false
 featured: false
+tag: conflict
 image:
   filename: featured
   focal_point: Smart
