@@ -12,11 +12,12 @@ sections:
     #active: true
     #column: 1
     #weight: 1
-    title: Tegla Loroupe Peace Foundation
-    subtitle: Peace Through Sports
-    image:
-      placement: 2
-      focal_point: right
+    content:
+      title: Tegla Loroupe Peace Foundation
+      subtitle: Peace Through Sports
+      image:
+        placement: 2
+        focal_point: right
     design:
       background:
         image: tlhome.jpg
