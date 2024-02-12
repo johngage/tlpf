@@ -85,12 +85,12 @@ main:
   - name: Media Center
     identifier: media_center
     url: post/
-    weight: 40
+    weight: 39
   - name: Newsletters
     identifier: newsletters
     parent: media_center
     url: post/
-    weight: 41
+    weight: 40
   - name: Events/Activities
     identifier: eventsactivities
     parent: media_center
@@ -109,7 +109,7 @@ main:
   - name: Reports
     identifier: reports
     parent: media_center
-    url: tags/academic/
+    url: https://googl.com
     weight: 44
    - name: Support/Join Us
     identifier: support
