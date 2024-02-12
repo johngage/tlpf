@@ -98,7 +98,7 @@ sections:
       title: 5.5
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet some of the team →" %}}
+        {{% cta cta_link="./pages/" cta_text="Meet some of the team →" %}}
     design:
       columns: '1'
 
