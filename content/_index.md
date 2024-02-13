@@ -3,12 +3,11 @@ title: Tegla Loroupe Peace Foundation
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sport
-      text: Hi
-        
+      text: Add anything
     design:
       background:
         image: tlhome.jpg
