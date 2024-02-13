@@ -1,7 +1,6 @@
 ---
-title: Tegla Loroupe Peace Foundation
+title: ""
 type: landing
-
 sections:
   - block: hero
     content:
