@@ -3,10 +3,11 @@ title: Tegla Loroupe Peace Foundation
 type: landing
 
 sections:
-- block: hero
+- block: markdown
     content:
       title: Tegla Loroupe Peace Foundation
-      text: "## Start  
+      subtitle: Peace Through Sport
+      text: ## Start  
         <br>
         <a id='gfm-charity-donate-link'
         style='background-color:#ffff00; color: black; border-radius: 4px;
@@ -29,7 +30,7 @@ sections:
         International Refugee Olympic team to Tokyo.<br><br>Tegla Loroupe
         describes who we are:  an organization dedicated to athletes who compete
         for themselves, for their families, for their societies, and for peace,
-        honesty and justice among all peoples. "
+        honesty and justice among all peoples. 
     design:
       background:
         image: tlhome.jpg
