@@ -7,7 +7,7 @@ sections:
     content:
       title: Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sport
-      text: Add anything
+      text: >- Add anything
     design:
       background:
         image: tlhome.jpg
@@ -107,7 +107,7 @@ sections:
 
         In 2021, Ambassador Tegla Loroupe led the International Refugee Olympic team to Tokyo.
 
-        Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.'
+        Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
 
       subtitle: Peace Through Sports Again
   #    image:
