@@ -3,7 +3,7 @@ title: Tegla Loroupe Peace Foundation
 type: landing
 
 sections:
-- block: markdown
+  - block: markdown
     content:
       title: Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sport
