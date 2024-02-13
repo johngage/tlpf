@@ -2,20 +2,7 @@
 title: ""
 type: landing
 sections:
-  - block: hero
-    content:
-      title: Tegla Loroupe Peace Foundation
-      subtitle: Peace Through Sport
-      text:  Add anything
-    design:
-      background:
-        image: tlhome.jpg
-        image_darken: 0.9
-        image_size: cover
-        image_position: left
-        image_parallax: true
-        text_color_light: true
-
+  
   - block: hero
     content:
       title: 2 Tegla Loroupe Peace Foundation
