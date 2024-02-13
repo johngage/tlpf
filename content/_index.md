@@ -1,6 +1,6 @@
 ---
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: Tegla Loroupe Peace Foundation
       text: "## Start  
