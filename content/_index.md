@@ -1,7 +1,6 @@
 ---
 sections:
   - block: hero
-    demo: true
     content:
       title: Tegla Loroupe Peace Foundation
       text: "## Start  
