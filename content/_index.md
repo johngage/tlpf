@@ -1,8 +1,8 @@
 ---
 title: Tegla Loroupe Peace Foundation
-sections:
-  
+type: landing
 
+sections:
   - block: hero
     content:
       title: 2 Tegla Loroupe Peace Foundation
