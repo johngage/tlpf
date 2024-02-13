@@ -7,7 +7,7 @@ sections:
     content:
       title: Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sport
-      text: ## Start  
+      text: "
         <br>
         <a id='gfm-charity-donate-link'
         style='background-color:#ffff00; color: black; border-radius: 4px;
@@ -16,6 +16,7 @@ sections:
         Sans,sans-serif; line-height: 24px' role='button'
         href='https://charity.gofundme.com/o/en/donate-widget/29892'> Donate
         Here!</a>
+        <br>
         ##The Tegla Loroupe Peace Foundation creates peace initiatives
         in East African pastoralist conflict areas.<br>Since its founding in
         2003 by **World Champion Tegla Loroupe**, thousands of athletes have
@@ -30,7 +31,7 @@ sections:
         International Refugee Olympic team to Tokyo.<br><br>Tegla Loroupe
         describes who we are:  an organization dedicated to athletes who compete
         for themselves, for their families, for their societies, and for peace,
-        honesty and justice among all peoples. 
+        honesty and justice among all peoples. "
     design:
       background:
         image: tlhome.jpg
