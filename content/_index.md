@@ -1,4 +1,5 @@
 ---
+title: Tegla Loroupe Peace Foundation
 sections:
   - block: markdown
     content:
