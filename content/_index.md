@@ -6,7 +6,7 @@ sections:
     content:
       title: Tegla Loroupe Peace Foundation
       subtitle: Peace Through Sport
-      text: >- Add anything
+      text:  Add anything
     design:
       background:
         image: tlhome.jpg
