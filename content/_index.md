@@ -3,7 +3,7 @@ title: Tegla Loroupe Peace Foundation
 type: landing
 
 sections:
-- block: markdown
+- block: hero
     content:
       title: Tegla Loroupe Peace Foundation
       text: "## Start  
@@ -38,6 +38,7 @@ sections:
         image_position: left
         image_parallax: true
         text_color_light: true
+
   - block: hero
     content:
       title: 2 Tegla Loroupe Peace Foundation
